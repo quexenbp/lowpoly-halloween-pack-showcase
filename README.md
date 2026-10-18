@@ -1,12 +1,12 @@
 # Low Poly Halloween Pack for Roblox
 
-A 68-model Halloween asset pack for Roblox by **sumiii61**.
+A 69-model Halloween asset pack for Roblox by **sumiii61**.
 
 ![All models](media/overview.png)
 
 ## Highlights
 
-- **57 faceted low-poly models,** including a detailed Haunted Chapel and Witch Hut. They share one 256x256 palette texture, so a whole scene uses a single texture.
+- **58 faceted low-poly models,** including a detailed Haunted Chapel, Witch Hut and ornate twin-lantern street lamp. They share one 256x256 palette texture, so a whole scene uses a single texture.
 - **11-model bonus set** with its own textures:
   - a Watching Eye that turns to stare at the nearest player
   - claw-hand statues, a mimic chest, a reaper scythe, cauldrons and mushrooms
@@ -29,7 +29,7 @@ A 68-model Halloween asset pack for Roblox by **sumiii61**.
 | | | | |
 |---|---|---|---|
 | ![](media/models/HauntedHouse_Manor_preview.png) | ![](media/models/JackOLantern_Scary_preview.png) | ![](media/models/Ghost_Wisp_preview.png) | ![](media/models/Cauldron_preview.png) |
-| ![](media/models/Haunted_Chapel_preview.png) | ![](media/models/Witch_Hut_preview.png) | | |
+| ![](media/models/Haunted_Chapel_preview.png) | ![](media/models/Witch_Hut_preview.png) | ![](media/models/Lamp_Post_Ornate_preview.png) | |
 | ![](media/models/AutumnTree_Big_preview.png) | ![](media/models/Mausoleum_preview.png) | ![](media/models/WatchingEye_preview.png) | ![](media/models/ClawHand_Statue_Witch_preview.png) |
 
 ## Get the pack
